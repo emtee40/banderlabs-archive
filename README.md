@@ -1,6 +1,6 @@
 Archival repo of the Banderlabs app collection for Android. They are rather old, created around 2011, so may not work as developed under newer Android operating systems.
 
-
+These apps require the user to use 'MENU' which is no longer a soft-key (I think Gingerbread was last major use, with possible KitKat usage). Even then, the two apps I tried, only one worked and that was with Notepad.
 
 
 
